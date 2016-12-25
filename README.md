@@ -22,11 +22,11 @@ of books with my rating.
 
 ## Teamwork
 
-- 🌑 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
+- 🌘 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
 
 ## Design Patterns
 
-- 🌗 [JavaScript Patterns - Stoyan Stefanov](http://a.co/3fItddm)
+- 🌖 [JavaScript Patterns - Stoyan Stefanov](http://a.co/3fItddm)
 - 🌑 [Learning JavaScript Design Patterns - Addy Osmani](http://a.co/1qAWsCh)
 
 ## Frameworks
