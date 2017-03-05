@@ -26,7 +26,7 @@ of books with my rating.
 
 ## Design Patterns
 
-- 🌗 [JavaScript Patterns - Stoyan Stefanov](http://a.co/3fItddm)
+- 🌖 [JavaScript Patterns - Stoyan Stefanov](http://a.co/3fItddm)
 - 🌑 [Learning JavaScript Design Patterns - Addy Osmani](http://a.co/1qAWsCh)
 
 ## Frameworks
