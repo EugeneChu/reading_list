@@ -22,7 +22,7 @@ of books with my rating.
 
 ## Teamwork
 
-- 🌑 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
+- 🌖 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
 
 ## Design Patterns
 
