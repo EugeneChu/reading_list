@@ -2,7 +2,7 @@
 
 Thanks to Nicolás Bevacqua for a good idea!
 
-This is a short list of books I have already read or planning to in nearest future.
+This is a short list of books I have already read or planning to in the nearest future.
 Unlike the original idea, I'll use this list more as a progress tracker than as a list
 of books with my rating.
 
@@ -22,7 +22,7 @@ of books with my rating.
 
 ## Teamwork
 
-- 🌖 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
+- 🌕 [The Mythical Man-Month - Frederick P. Brooks Jr.](http://a.co/6co0SEB)
 
 ## Design Patterns
 
@@ -37,3 +37,7 @@ of books with my rating.
 
 - 🌑 [Practical SVG  - Chris Coyier](https://abookapart.com/products/practical-svg)
 - 🌘 [CSS3: The Missing Manual  - David Sawyer McFarland ](https://amzn.com/1449325947)
+
+## NodeJS
+
+- 🌘 [Learning Node, Moving to the Server Side(2-nd Edition)  - Shelley Powers](http://a.co/g1hlMYW)
