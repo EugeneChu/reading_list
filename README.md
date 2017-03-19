@@ -40,4 +40,4 @@ of books with my rating.
 
 ## NodeJS
 
-- 🌘 [Learning Node, Moving to the Server Side(2-nd Edition)  - Shelley Powers](http://a.co/g1hlMYW)
+- 🌗 [Learning Node, Moving to the Server Side(2-nd Edition)  - Shelley Powers](http://a.co/g1hlMYW)
